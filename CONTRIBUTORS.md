@@ -1,4 +1,5 @@
 # Contributors
--  [@elcozy](https://github.com/elcozy)
 
--  [@ifatoki](https://github.com/ifatoki)
+- [@elemsony](https://github.com/elemson)
+
+- [@ifatoki](https://github.com/ifatoki)
