@@ -1,6 +1,9 @@
 # Contributors
--  [@elcozy](https://github.com/elcozy)
 
--  [@ifatoki](https://github.com/ifatoki)
+- [@elcozy](https://github.com/elcozy)
 
-- [@Darey] (https://github.com/DamilareRichard)
+- [@ifatoki](https://github.com/ifatoki)
+
+- [@Darey](https://github.com/DamilareRichard)
+
+* [@toluwani](https://github.com/elemson)
