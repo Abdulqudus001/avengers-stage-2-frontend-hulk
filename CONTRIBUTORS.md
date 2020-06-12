@@ -3,8 +3,6 @@
 
 -  [@ifatoki](https://github.com/ifatoki)
 
-- [@Darey] (https://github.com/DamilareRichard)
-
 -  [@orung](https://github.com/orung)
 
 -  [@Feyikemi](https://github.com/Agboolafeyikemi)
@@ -14,3 +12,5 @@
 -  [@constantino](https://github.com/Napolite)
 
 -  [@sheriffsaka](https://github.com/sheriffsaka)
+
+-  [@Darey] (https://github.com/DamilareRichard)
